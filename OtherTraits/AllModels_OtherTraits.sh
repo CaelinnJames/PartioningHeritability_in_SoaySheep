@@ -5,7 +5,6 @@
 #$ -l h_vmem=8G
 #$ -o o_files/
 #$ -e e_files/
-#$ -t 1-8
 . /etc/profile.d/modules.sh
 
 module load igmm/apps/dissect/1.15.2c
