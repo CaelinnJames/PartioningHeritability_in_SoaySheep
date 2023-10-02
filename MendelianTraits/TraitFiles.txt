@@ -1,0 +1,4 @@
+MaleHorn, ,Male horn type,10,28454,30503
+CoatColour, ,Coat colour (dark/light),2,79602,81624
+CoatPattern, ,Coat pattern (wild/self),13,62237,64243
+FemaleHorn, ,Female horn type,10,28454,30503
