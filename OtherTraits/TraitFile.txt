@@ -1,0 +1,8 @@
+BirthWt,1 2,Birth weight
+LambWeight,1 2,Lamb August weight
+LambForeLeg,1 2,Lamb foreleg length
+LambHindLeg,1 2,Lamb hindleg length
+MetacarpalLength_Lamb,1 2,Lamb metacarpal length
+JawLength_Lamb,1 2,Lamb jaw length
+MetacarpalLength_Adult,1, Adult metacarpal length
+JawLength_Adult,1, Adult jaw length
