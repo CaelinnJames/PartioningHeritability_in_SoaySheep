@@ -1,0 +1,3 @@
+AdultWeight,1 2,Adult August weight
+AdultForeLeg,1 2,Adult foreleg length
+AdultHindLeg,1 2,Adult hindleg length
