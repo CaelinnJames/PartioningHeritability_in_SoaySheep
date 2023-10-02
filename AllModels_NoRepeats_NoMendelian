@@ -3,8 +3,6 @@
 #$ -l h_rt=47:30:00
 #$ -pe sharedmem 4
 #$ -l h_vmem=8G
-#$ -M s1944058@sms.ed.ac.uk
-#$ -m baes 
 #$ -o o_files/
 #$ -e e_files/
 #$ -t 1-8
