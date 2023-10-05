@@ -19,4 +19,6 @@
 # Investigating pedigree- and SNP-associated components of heritability in a wild population of Soay sheep
 Scripts and input data for James et. al ([https://doi.org/10.1101/2022.03.07.483376](https://doi.org/10.1101/2023.06.02.543397 ))
 
+IDs are randomised, meaning they are not compariable between traits/other publically available Soay sheep data.
+
 Please email me at caelinnj@gmail.com if you would like more information/have any questions
